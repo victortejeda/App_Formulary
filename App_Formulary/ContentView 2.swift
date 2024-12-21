@@ -5,7 +5,7 @@
 //  Created by Victor Tejeda on 20/12/24.
 //
 
-import SwiftUI
+import SwiftUI// trate de agregarle depedencias de tercero pero me ah estado hiendo mal 
 
 struct ContentView: View {
     @StateObject private var viewModel = FormViewModel()
